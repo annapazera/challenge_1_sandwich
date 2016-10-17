@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        getSandwich("chlebjajkochleb");
+        getSandwich("chlebszynkaijajkochlebblabla");
     }
     public static String getSandwich (String s){
 
